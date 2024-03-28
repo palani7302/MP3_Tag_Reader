@@ -6,7 +6,7 @@ Title			:
 Sample Input	:
 Sample output	:
 */
-int main()
+int main(int argc, int argv[])
 {
 	printf("MP3 Tag Reader\n");
 
